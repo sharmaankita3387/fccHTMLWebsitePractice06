@@ -8,7 +8,7 @@
 ## About This Project  
 This is Project 6 in my coding practice series. In this project, I combined both the HTML `<audio>` and `<video>` elements into a single webpage.
 
-The goal was to move beyond isolated examples and start integrating multiple media types into one structured layout—similar to how real-world web pages are built.
+The goal was to move beyond isolated examples and start integrating multiple media types into one structured layout, similar to how real-world web pages are built.
 
 ---
 
